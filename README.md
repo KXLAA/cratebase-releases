@@ -1,1 +1,3 @@
-# cratebase-releases
+# Cratebase Releases
+
+The release repository for cratebase.app
